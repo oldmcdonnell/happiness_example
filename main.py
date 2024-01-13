@@ -5,7 +5,7 @@ import pandas as pd
 #add a title
 st.title("In Search for Happiness")
 
-df = pd.read_csv("hppy.csv")
+df = pd.read_csv("happy.csv")
 
 #selection box for x axis
 option_x = st.selectbox("Select option for X-Axis", ("GDP", "Happiness", "Generosity"))

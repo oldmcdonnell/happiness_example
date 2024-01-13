@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2939cc2b-297b-4492-81aa-c018f6b3c3b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/happiness_example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="2939cc2b-297b-4492-81aa-c018f6b3c3b9" name="Changes" comment="solution">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +72,28 @@
       <option name="presentableId" value="Default" />
       <updated>1705176095813</updated>
     </task>
+    <task id="LOCAL-00001" summary="solution">
+      <option name="closed" value="true" />
+      <created>1705181211926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705181211926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="solution">
+      <option name="closed" value="true" />
+      <created>1705181219426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705181219426</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
